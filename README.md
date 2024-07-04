@@ -96,5 +96,9 @@ tab.html
 </html>
 ```
 
+# Output
+
+![Screenshot 2024-07-04 at 9 42 36 AM](https://github.com/Harshinisrini1910/Web-Fundamentals/assets/161415847/298c8f47-8e99-45a2-a1c1-e89d2df8d4d2)
+
 # Result
 The given output has been verified successfully using html.
